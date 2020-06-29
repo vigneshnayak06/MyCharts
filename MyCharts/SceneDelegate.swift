@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  MyCharts
 //
-//  Created by Niveus Solutions on 6/22/20.
-//  Copyright © 2020 Niveus Solutions. All rights reserved.
+//  Created by Vignesh Nayak P on 6/22/20.
+//  Copyright © 2020 Vignesh Nayak P. All rights reserved.
 //
 
 import UIKit

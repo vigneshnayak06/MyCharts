@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  MyCharts
 //
-//  Created by Niveus Solutions on 6/22/20.
-//  Copyright © 2020 Niveus Solutions. All rights reserved.
+//  Created by Vignesh Nayak P on 6/22/20.
+//  Copyright © 2020 Vignesh Nayak P. All rights reserved.
 //
 
 import UIKit
@@ -28,7 +28,7 @@ class ViewController: UIViewController, ChartViewDelegate {
         yAxis.labelPosition = .outsideChart
         yAxis.setLabelCount(5, force: false)
         
-        barChartView.animate(xAxisDuration: 2.5)
+        barChartView.animate(xAxisDuration: 1.0)
     }
 
     override func viewDidLayoutSubviews() {
